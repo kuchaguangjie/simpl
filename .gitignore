@@ -1,8 +1,15 @@
 *~
 .DS_Store
-.swp
+*.swp
 .vscode/
 default.profraw
 node_modules
 validation-report.json
 validation-status.json
+
+## webstorm
+.idea
+
+## pnpm
+pnpm-lock.yaml
+
